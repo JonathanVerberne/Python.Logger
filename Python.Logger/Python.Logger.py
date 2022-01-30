@@ -1,31 +1,10 @@
-#x=10
-#y=20
-#ans=x*y
-#print(ans)
-#print("test")
-#t=6
-#t=8
-#print(t)
-#name=input("what's your name ? ")
-#print("hello " + name)
-
-#========================================================================================
-#                           Error handling
-#========================================================================================
-## try catch example ##
-#https://betterprogramming.pub/handling-errors-in-python-9f1b32952423
-#try:
-#    x = int(input("Please enter a number: "))
-#    y = 100 / x
-#except ValueError:
-#    print("Error: there was an error")
-#except ZeroDivisionError:
-#    print("Error: 0 is an invalid number")
-#except Exception:
-#    print("Error: another error occurred")
-#finally:
-#    print("Cleanup can go here")
-
+#===========================================================================
+                        ### TO DO ###
+#===========================================================================
+#1. add database credentials to a config/ini file
+#2. add readme file
+#3. get mongo db id and add to file json (so json obkects are the same)
+#4. add error handling to exception handler and validation i.e. check if json object is not null etc,,
 
 from Classes.ExceptionHandler import ExceptionHandler
 
