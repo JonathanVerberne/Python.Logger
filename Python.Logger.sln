@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python.Logger", "Python.Logger\Python.Logger.pyproj", "{1AA071EB-E662-428A-90C4-8A391F3EFF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA071EB-E662-428A-90C4-8A391F3EFF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA071EB-E662-428A-90C4-8A391F3EFF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB22AAF0-4312-4780-B7F0-D9FC59387B7C}
+	EndGlobalSection
+EndGlobal
